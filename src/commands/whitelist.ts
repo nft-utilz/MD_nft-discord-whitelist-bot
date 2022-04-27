@@ -17,7 +17,7 @@ export async function execute(interaction: CommandInteraction, client: Client) {
   if (!interaction?.channelId) return;
   const { user } = interaction;
 
-  const whitelist_channel_Id = "966594211212312616";
+  const whitelist_channel_Id = "123";
   const whitelist_channel = getChannel("invite-logs", client);
   // console.log("whitelist_channel:", whitelist_channel);
   const channel = await client.channels.fetch(interaction.channelId);
