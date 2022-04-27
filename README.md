@@ -12,7 +12,7 @@ and this bot will get the info and depending on the invites number, it'll make t
 ![image](https://user-images.githubusercontent.com/84432740/165458359-9ca0fe34-c8b1-453e-8a21-81ad5b56dcff.png)
 
 
-if you done that, you make special channel that only whitelist users can access.
+if you done that, make a special channel that only whitelist users can access.
 
 ![image](https://user-images.githubusercontent.com/84432740/165459172-bd38255d-e6bb-49e5-b88a-38c3ac367956.png)
 
