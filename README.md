@@ -2,7 +2,7 @@
 # nft-discord-whitelist-bot
 
 this bot tracks the "invite tracker".
-if you do slashcommand "/invites", "invite tracker" will show you how much a user invite people.
+if you do slashcommand "/invites", "invite tracker" will show you how much the user invited people.
 and this bot will will get the info and depending on the invites number, it'll make the user's role up.
 
 
