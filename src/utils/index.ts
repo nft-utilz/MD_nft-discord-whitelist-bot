@@ -23,4 +23,4 @@ export const normalEmbed = (title: string, message: string) =>
     .setTitle(`**${title}**`)
     .setDescription(message)
     .setTimestamp()
-    .setFooter({ text: "GMS" });
+    .setFooter({ text: "zzz" });
