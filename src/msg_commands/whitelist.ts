@@ -22,7 +22,7 @@ export const execute = async (message: Message) => {
   const guildUser = await message.guild.members.fetch(userObj.id);
   const title = `${userObj.username}#${userObj.discriminator}`;
 
-  if (isWhitelist) {
+  if (!isWhitelist) {
     const msg = `You need **${10 - inviteNumber}** invites more!`;
     return message.channel.send({ embeds: [normalEmbed(title, msg)] });
   } else {
