@@ -22,9 +22,6 @@ https://discordjs.guide/popular-topics/embeds.html#embed-preview
 
 https://discord.com/developers/applications/967366786385342464/bot
 
-# 아틀라스
-
-https://cloud.mongodb.com/v2/6263fce019a2f33a72e44bfd#clusters/connect?clusterId=Cluster0
 
 # 한번 graphQL 적용해봐도 될 듯 시간 남으니
 
